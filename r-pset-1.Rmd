@@ -1,0 +1,26 @@
+---
+title: "Ec970 R Pset 1"
+author: "Bridger Gordon"
+date: "2/18/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Lol
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+Lol2
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
